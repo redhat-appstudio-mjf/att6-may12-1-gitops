@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: att6-may12-1-repository
+spec:
+  url: https://github.com/redhat-appstudio-mjf/att6-may12-1
